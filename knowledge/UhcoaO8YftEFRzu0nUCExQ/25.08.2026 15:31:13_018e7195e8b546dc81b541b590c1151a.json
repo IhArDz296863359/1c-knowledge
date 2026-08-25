@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "",
+"code": "",
+"lang": "",
+"result": "Реквизиты формы обработки доступны через `ЭтаФорма.ИмяРеквизита`, а не напрямую по имени",
+"success": true,
+"type": "note",
+"timestamp": "2026-08-25T15:31:13"
+}
