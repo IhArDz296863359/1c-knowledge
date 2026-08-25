@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "",
+"code": "",
+"lang": "",
+"result": "HTTPСоединение принимает только имя хоста (например, api.github.com), протокол определяется параметром порта 443 = HTTPS",
+"success": true,
+"type": "note",
+"timestamp": "2026-08-25T16:43:05"
+}
