@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "это так, но укажи какой тип у объекта в который ты внедрен?",
+"code": "",
+"lang": "",
+"result": "Объект ExtCntrl — это встроенная обработка (DataProcessor) конфигурации, класс метаданных — DataProcessor, не имеет ссылочного типа, создаётся через менеджер DataProcessors.ExtCntrl",
+"success": true,
+"type": "note",
+"timestamp": "2026-08-26T15:13:23"
+}
