@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "был ли в базе знаний похожий код и кода?",
+"code": "",
+"lang": "",
+"result": "Для доступа к базе знаний использовать реквизиты формы: ТокенGit, РепозиторийGit, ВеткаGit, КаталогБазыЗнанийGit — подключаться через api.github.com с ЗащищенноеСоединениеOpenSSL",
+"success": true,
+"type": "note",
+"timestamp": "2026-08-27T08:52:26"
+}
