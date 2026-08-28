@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "План согласован. Выдай код по этому плану одним блоком ```bsl.",
+"code": "",
+"lang": "",
+"result": "Для GitHub Trees API используй GET /repos/{owner}/{repo}/git/trees/{branch}?recursive=1 — получает полное дерево файлов рекурсивно; фильтруй по type=blob для файлов; используй path для отбора по каталогу",
+"success": true,
+"type": "note",
+"timestamp": "2026-08-28T15:29:19"
+}
