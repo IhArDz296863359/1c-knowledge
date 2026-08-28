@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "можешь определить какой объем знания накоплен в git?",
+"code": "",
+"lang": "",
+"result": "Для рекурсивного подсчёта в Git API нужно вызывать GET /repos/{owner}/{repo}/git/trees/{branch}:recursive=1 — отдаёт дерево всех файлов в одном запросе",
+"success": true,
+"type": "note",
+"timestamp": "2026-08-28T09:34:30"
+}
