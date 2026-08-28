@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "как ты будешь обращаться к значениям реквизитов?",
+"code": "",
+"lang": "",
+"result": "Обращение к реквизитам обработки ExtCntrl — через ЭтотОбъект.Объект.ИмяРеквизита",
+"success": true,
+"type": "note",
+"timestamp": "2026-08-28T15:28:29"
+}
