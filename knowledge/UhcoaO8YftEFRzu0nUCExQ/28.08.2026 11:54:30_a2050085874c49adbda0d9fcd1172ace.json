@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "чушь, даже не буду запускать, проанализируй базу знаний",
+"code": "",
+"lang": "",
+"result": "реквизит ВыполнятьНаСервере принадлежит обработке AiExtCntrl, а НЕ ExtCntrl — не смешивать объекты",
+"success": true,
+"type": "note",
+"timestamp": "2026-08-28T11:54:30"
+}
