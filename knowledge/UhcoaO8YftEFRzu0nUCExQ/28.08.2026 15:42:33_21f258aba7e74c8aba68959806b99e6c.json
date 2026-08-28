@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "План согласован. Выдай код по этому плану одним блоком ```bsl.",
+"code": "",
+"lang": "",
+"result": "Для запросов к Git API используй endpoint `/repos/{owner}/{repo}/git/trees/{branch}?recursive=1` с авторизацией Bearer — это даёт полное дерево файлов репозитория",
+"success": true,
+"type": "note",
+"timestamp": "2026-08-28T15:42:33"
+}
