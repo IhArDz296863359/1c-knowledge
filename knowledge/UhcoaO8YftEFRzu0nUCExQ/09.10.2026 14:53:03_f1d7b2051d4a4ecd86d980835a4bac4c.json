@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "так дай код — `CREATE TABLE`, `ALTER TABLE`, `CREATE INDEX`",
+"code": "",
+"lang": "",
+"result": "Supabase PostgREST не поддерживает DDL — CREATE/ALTER/INDEX выполняются только через SQL Editor в Dashboard или через прямое подключение к PostgreSQL по connection string.",
+"success": true,
+"type": "note",
+"timestamp": "2026-10-09T14:53:03"
+}
