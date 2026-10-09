@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "прочитай что записано в этом файле",
+"code": "",
+"lang": "",
+"result": "SHA `8b137891791fe96927ad78e64b0aad7bded08bdc` — это SHA пустого дерева Git, используется когда файл пустой. PUT 404 при работающем GET обычно означает отсутствие прав на запись у токена.",
+"success": true,
+"type": "note",
+"timestamp": "2026-10-09T12:11:19"
+}
