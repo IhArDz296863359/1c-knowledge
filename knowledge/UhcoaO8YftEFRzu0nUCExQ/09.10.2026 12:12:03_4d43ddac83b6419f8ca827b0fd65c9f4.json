@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "План согласован. Выдай код по этому плану одним блоком ```bsl.",
+"code": "",
+"lang": "",
+"result": "PUT на `/contents/` возвращает 404 при fine-grained токене без права «Contents: Read and write». GET /user с пустым `X-OAuth-Scopes` подтверждает fine-grained токен.",
+"success": true,
+"type": "note",
+"timestamp": "2026-10-09T12:12:03"
+}
