@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "поля в таблице такие как и json файлов.",
+"code": "",
+"lang": "",
+"result": "Поля таблицы knowledge в Supabase совпадают 1:1 с полями JSON-файлов базы знаний: fingerprint, task, code, lang, result, success, type, timestamp. Не переименовывать при миграции.",
+"success": true,
+"type": "note",
+"timestamp": "2026-10-12T10:07:14"
+}
