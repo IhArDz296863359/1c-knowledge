@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "таблица уже готова и ждет тебя,\nадр.проекта: - https://bsitoitguoagjteajedw.supabase.co\nключ: - sb_publishable_t8H5y5pWJ56Se9OEl3q36g_KOnnf4YR\nстр.соед.: - postgresql://postgres:[12.SupaBase.69]@db.bsitoitguoagjteajedw.supabase.co:5432/postgres\nsetup cmd: - supabase login\nsupabase init\nsupabase link --project-ref bsitoitguoagjteajedw",
+"code": "",
+"lang": "",
+"result": "API-ключ Supabase передаётся в заголовке `apikey` + `Authorization: Bearer <key>`. Для записи в таблицы с включённым RLS нужен `service_role` ключ, а не `publishable`/`anon`.",
+"success": true,
+"type": "note",
+"timestamp": "2026-10-12T09:51:53"
+}
