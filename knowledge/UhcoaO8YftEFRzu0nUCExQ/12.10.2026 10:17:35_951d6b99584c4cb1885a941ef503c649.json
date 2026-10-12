@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "тольк не дублируй записи",
+"code": "",
+"lang": "",
+"result": "при миграции в Supabase всегда проверять существующие записи по составному ключу fingerprint|timestamp перед загрузкой, чтобы избежать дублирования",
+"success": true,
+"type": "note",
+"timestamp": "2026-10-12T10:17:35"
+}
