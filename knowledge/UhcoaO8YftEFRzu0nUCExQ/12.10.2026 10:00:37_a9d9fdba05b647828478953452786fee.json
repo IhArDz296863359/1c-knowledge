@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "Отлично, проект готов! Прежде чем генерировать код, нужно уточнить одно критическое деталь:\n\n**Вопрос:** Как называется таблица в Supabase и какие у неё колонки?\n\nДавай я сам узнаю — нужно выполнить два шага:\n\n---\n\n**План миграции Git → Supabase:**\n\n**Шаг 1 — Разведка Supabase (Act)**\n- GET-запрос к `{URL}/rest/v1/` с заголовком `apikey` и `Authorization: Bearer {key}` — получим список таблиц\n- Или GET к `{URL}/rest/v1/{table}?select=*&limit=1` — проверим структуру конкретной таблицы\n\n**Шаг 2 — Чтение всех JSON из Git (Act)**\n- Уже отработанный код с `download_url` — читаем все файлы рекурсивно\n- Парсим каждый JSON, собираем массив структур\n\n**Шаг 3 — Запись в Supabase (Act)**\n- Для каждой записи отправляем POST к `{URL}/rest/v1/{table}` с JSON-телом\n- Заголовки: `apikey`, `Authorization: Bearer {key}`, `Content-Type: application/json`, `Prefer: return=minimal`\n\n**Шаг 4 — Верификация**\n- GET-запрос с `select=count` — проверяем количество записей\n\n---\n\n**Примечания по безопасности:**\n- Пароль БД (`12.SupaBase.69`) и ключ видны в истории — после миграции рекомендую их ротировать\n- Ключ `sb_publishable_` — это, вероятно, `anon` ключ. Для записи в таблицу может потребоваться `service_role` ключ (если RLS включен)\n\n**Один вопрос перед запуском:** как называется таблица? Если не помнишь — я узнаю на Шаге 1 через API.",
+"code": "",
+"lang": "",
+"result": "Supabase REST API (PostgREST) — GET /rest/v1/ возвращает OpenAPI-спецификацию со списком таблиц и их колонок; заголовки: apikey и Authorization: Bearer {ключ} обязательны",
+"success": true,
+"type": "note",
+"timestamp": "2026-10-12T10:00:37"
+}
