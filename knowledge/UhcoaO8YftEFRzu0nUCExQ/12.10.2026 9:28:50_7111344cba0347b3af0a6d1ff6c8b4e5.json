@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "файлы из каталога: https://github.com/IhArDz296863359/1c-knowledge/tree/main/knowledge/UhcoaO8YftEFRzu0nUCExQ",
+"code": "",
+"lang": "",
+"result": "В GitHub API при листинге каталога файлы уже содержат поле content (base64, ≤1MB) и download_url — используй их напрямую, не конструируй URL вручную для файлов с спецсимволами в именах",
+"success": true,
+"type": "note",
+"timestamp": "2026-10-12T09:28:50"
+}
