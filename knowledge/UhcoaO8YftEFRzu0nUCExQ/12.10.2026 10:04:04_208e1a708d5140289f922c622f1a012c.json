@@ -1,0 +1,10 @@
+{
+"fingerprint": "UhcoaO8YftEFRzu0nUCExQ",
+"task": "готов к переносу?",
+"code": "",
+"lang": "",
+"result": "Bulk insert в Supabase — отправляй JSON-массив объектов одним POST к /rest/v1/{table} с заголовком Prefer: return=minimal для максимальной скорости",
+"success": true,
+"type": "note",
+"timestamp": "2026-10-12T10:04:04"
+}
